@@ -7,4 +7,4 @@
 * Пытаюсь ```писать код```
 
 
-![](/img/face.img)
+![](https://github.com/saw47/myrepo/blob/main/img/face.jpg?raw=true)
